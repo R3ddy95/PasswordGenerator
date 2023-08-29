@@ -2,9 +2,9 @@
 This is a simple password generator written in Java. The application allows the user to customize the password generation by including different combinations of uppercase letters, lowercase letters, numbers and special symbols.
 
 ## How it works
-The program will ask questions about the user's preferences for generating the password. 
-Answer the questions by inserting "y" or "n" as appropriate. 
-Next, you will be prompted to enter the desired password length (between 6 and 20).
+The program will ask questions about the user's preferences for generating the password. <br>
+Answer the questions by inserting "y" or "n" as appropriate. <br>
+Next, you will be prompted to enter the desired password length (between 6 and 20).<br>
 <br>
 The program will generate a password based on the user's preferences and print it on the console.
 
