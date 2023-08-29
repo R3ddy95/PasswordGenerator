@@ -26,7 +26,7 @@ If you don't have it, you can download it here:
 `git clone https://github.com/R3ddy95/PasswordGenerator.git`
 
 ### 2 - Compilation
-Navigate to the root directory of the PasswordGenerator project and compile the code by running the command:
+Navigate to the root directory of the PasswordGenerator project and compile the code by running the command:<br>
 `javac PasswordGenerator.java`
 
 ### 3 - Execution
