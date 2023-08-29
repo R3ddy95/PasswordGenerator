@@ -30,7 +30,7 @@ Navigate to the root directory of the PasswordGenerator project and compile the 
 `javac PasswordGenerator.java`
 
 ### 3 - Execution
-After compiling, run the program with the command:
+After compiling, run the program with the command:<br>
 `java PasswordGenerator`
 
 ##  License
