@@ -18,7 +18,7 @@ The program will generate a password based on the user's preferences and print i
 * [JDK](https://www.oracle.com/it/java/technologies/downloads/)
 
 ## Installation
-First of all, you need JDK (Java Developer TollKit) installed.
+First of all, you need JDK (Java Development Kit) installed.
 If you don't have it, you can download it here:
 [JDK](https://www.oracle.com/it/java/technologies/downloads/)<br>
 
